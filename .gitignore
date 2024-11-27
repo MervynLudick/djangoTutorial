@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Django settings and secrets
+*.env
+*.log
+
+# Node modules (if using npm)
+node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
